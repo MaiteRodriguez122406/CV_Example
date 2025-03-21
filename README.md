@@ -1,74 +1,32 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Maite Rodriguez 
+**Profesión:** _Tecnologo en gestion de mercados_
+Soy Maite Rodríguez, Tecnóloga en Gestión de Mercados. Egresada con sólidos conocimientos en estrategias de mercado y análisis de consumidores. Poseo habilidades destacadas en trabajo en equipo, comunicación asertiva y proactividad, lo que me permite adaptarme rápidamente a nuevos entornos y desafíos. Busco oportunidades para aplicar mis conocimientos y contribuir al éxito de una organización en el área de mercadeo.
+
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [maitesimanca55@gmail.com](mailto:maitesimanca55@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/maite-rodriguez-668580266?trk=contact-info)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
+### **Inversiones y Operaciones Del Sur** _(2025)_
 - Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Universidad CUN** _(2021 - 2022)_
+### **Politecnico internacional** _ (2023)_
+### **SENA** _ (2023-2025)_ 
+- Tecnico profesional en mercadeo y publicidad.
+- Tecnologo en mercadeo y estrategias comerciales.
+- Tecnologo en gestion de mercados. 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo**
+- **Comunicacion asertiva**
+- **Proactividad**
 
 ---
-
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
